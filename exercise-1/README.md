@@ -1,4 +1,4 @@
-# Exercise-3
+# Exercise-1
 
 The purpose of this exercise is to practice the steps you'll need to use in future exercises. We'll begin by configuring your GitHub account for your machine (which you'll only need to do once), and then move through the steps of working with Git and GitHub (which will soon become second nature).
 
@@ -9,3 +9,6 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 5. In the `README.md` file, make an ordered list of what you ate for breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 7. Push changes up to GitHub
+
+1. pumpkin flavored ellenos greek yogurt
+2. honey glazed almonds
